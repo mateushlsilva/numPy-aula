@@ -1,0 +1,2 @@
+# numPy-aula
+Jupyter notebook
